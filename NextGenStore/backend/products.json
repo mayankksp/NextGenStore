@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Samsung Galaxy S23",
+    "price": 79999,
+    "desc": "8GB RAM, 256GB storage",
+    "image": "https://m.media-amazon.com/images/I/61L68P3+fxL._SX679_.jpg"
+  },
+  {
+    "name": "Apple iPhone 12",
+    "price": 79900,
+    "desc": "64GB, A14 Bionic chip",
+    "image": "https://m.media-amazon.com/images/I/71hIfcIPyxS._SX679_.jpg"
+  },
+  {
+    "name": "OnePlus 11R",
+    "price": 49999,
+    "desc": "8GB RAM, 128GB storage",
+    "image": "https://m.media-amazon.com/images/I/613SAOPmLeL._SX679_.jpg"
+  },
+  {
+    "name": "Xiaomi Mi 12Pro",
+    "price": 39999,
+    "desc": "8GB RAM, 128GB storage",
+    "image": "https://m.media-amazon.com/images/I/312Y9YFTpML._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+        "name" : "Google Pixel 7a",
+        "price" : 70999,
+        "desc" : "8GB RAM, 128GB storage",
+        "image" : "https://m.media-amazon.com/images/I/61jNwWb+G0L._SX679_.jpg"
+    },
+    {
+        "name" : "Apple MacBook Pro 13-inch",
+        "price" : 122900,
+        "desc" : "M2 chip, 8GB RAM",
+        "image" : "https://m.media-amazon.com/images/I/61GS8TscqRL._SX679_.jpg"
+    },
+    {
+        "name" : "Dell XPS 13",
+        "price" : 174990,
+        "desc" : "10th Gen Intel Core i7, 16GB RAM",
+        "image" : "https://m.media-amazon.com/images/I/410cdVmBDWL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+  {
+    "name": "HP Spectre x360",
+    "price": 159999,
+    "desc": "11th Gen Intel Core i7, 16GB RAM",
+    "image": "https://m.media-amazon.com/images/I/519gubuLlOL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "name": "Lenovo Yoga Slim 7",
+    "price": 96990,
+    "desc": "11th Gen Intel Core i5, 8GB RAM",
+    "image": "https://m.media-amazon.com/images/I/41kqwKQvqvL._SX300_SY300_QL70_FMwebp_.jpg"
+  },
+  {
+    "name": "Asus ROG Zephyrus G14",
+    "price": 144990,
+    "desc": "AMD Ryzen 9, 16GB RAM",
+    "image": "https://m.media-amazon.com/images/I/81+RxGLt+1L._SX679_.jpg"
+  },
+  {
+    "name": "Canon EOS 1500D",
+    "price": 34999,
+    "desc": "24.1MP DSLR Camera",
+    "image": "https://m.media-amazon.com/images/I/51UHoxzInpL._SY300_SX300_QL70_FMwebp_.jpg"
+  },
+  {
+    "name": "Nikon D7500",
+    "price": 59990,
+    "desc": "20.9MP DSLR Camera",
+    "image": "https://m.media-amazon.com/images/I/613pf1JTs9L._SX679_.jpg"
+  },
+  {
+    "name": "Sony Alpha A6100",
+    "price": 66489,
+    "desc": "24.3MP Mirrorless Camera",
+    "image": "https://m.media-amazon.com/images/I/81+9LRBzz6L._SX679_.jpg"
+  },
+  {
+    "name": "GoPro HERO9 Black",
+    "price": 39900,
+    "desc": "5K Action Camera",
+    "image": "https://m.media-amazon.com/images/I/61R73nG3FqL._AC_UY436_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Fujifilm X-T4",
+    "price": 154999,
+    "desc": "26.1MP Mirrorless Camera",
+    "image": "https://m.media-amazon.com/images/I/61HE5gO-yuL._AC_UY436_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Sony PlayStation 5",
+    "price": 49990,
+    "desc": "825GB SSD, 4K Gaming",
+    "image": "https://m.media-amazon.com/images/I/51mWHXY8hyL._AC_UY436_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Microsoft Xbox Series X",
+    "price": 49990,
+    "desc": "1TB SSD, 8K Gaming",
+    "image": "https://m.media-amazon.com/images/I/61-jjE67uqL._AC_UY436_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Nintendo Switch",
+    "price": 29999,
+    "desc": "Portable Gaming Console",
+    "image": "https://m.media-amazon.com/images/I/71Q54HnKxwS._AC_UY436_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Apple Watch Series 6",
+    "price": 40900,
+    "desc": "GPS, 44mm",
+    "image": "https://m.media-amazon.com/images/I/91GSGH4puEL._AC_UY436_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Samsung Galaxy Watch 4",
+    "price": 29990,
+    "desc": "45mm, GPS",
+    "image": "https://m.media-amazon.com/images/I/61ftRB6KycL._AC_UY436_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Fitbit Versa 3",
+    "price": 21499,
+    "desc": "Fitness Smartwatch",
+    "image": "https://m.media-amazon.com/images/I/5119d-IDGWL._AC_UY436_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Sony WH-1000XM4",
+    "price": 29990,
+    "desc": "Wireless Noise Cancelling",
+    "image": "https://m.media-amazon.com/images/I/51SKmu2G9FL._AC_UY436_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Bose QuietComfort 35 II",
+    "price": 27999,
+    "desc": "Noise Cancelling, Wireless",
+    "image": "https://m.media-amazon.com/images/I/51guNb9R-9L._AC_UY436_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "JBL Tune 750BTNC",
+    "price": 7999,
+    "desc": "Wireless Over-Ear",
+    "image": "https://m.media-amazon.com/images/I/61QZnJ+vJyL._AC_UY436_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "LG 55-inch 4K UHD Smart LED TV",
+    "price": 72990,
+    "desc": "AI ThinQ",
+    "image": "https://www.lg.com/in/images/tvs/md07506328/gallery/55UN7350PTD-D-01.jpg"
+  },
+  {
+    "name": "Samsung The Frame QLED Smart TV",
+    "price": 84999,
+    "desc": "50-inch, 4K",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/in/qa55ls03aaklxl/gallery/in-the-frame-ls03a-qa55ls03aaklxl-427413806?$684_547_PNG$"
+  },
+  {
+    "name": "Sony Bravia 43-inch 4K UHD",
+    "price": 60990,
+    "desc": "Smart LED TV",
+    "image": "https://m.media-amazon.com/images/I/81P6YFm57TL._AC_UY436_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Apple iPad Pro 12.9-inch",
+    "price": 103900,
+    "desc": "Wi-Fi, 128GB",
+    "image": "https://m.media-amazon.com/images/I/81hAx31maUL._AC_UY436_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Samsung Galaxy Tab S7",
+    "price": 69999,
+    "desc": "11-inch, 128GB",
+    "image": "https://m.media-amazon.com/images/I/915rA4VNXuL._AC_UY436_FMwebp_QL65_.jpg"
+  },
+  {
+    "name": "Lenovo Tab P11 Pro",
+    "price": 44999,
+    "desc": "11.5-inch, 128GB",
+    "image": "https://m.media-amazon.com/images/I/51QRtIPG9NL._AC_UY436_FMwebp_QL65_.jpg"
+  }
+]

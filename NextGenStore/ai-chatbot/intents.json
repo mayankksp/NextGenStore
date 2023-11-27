@@ -1,0 +1,153 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "Good morning",
+        "Good evening",
+        "How's it going?"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting!",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?",
+        "Hello there! How can I assist you today?",
+        "Good to see you! How can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye", "Talk to you later", "Catch you later"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon.",
+        "Goodbye! If you need any more help, just ask."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!", "Much appreciated", "You're a lifesaver"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure", "You're welcome! Need help with anything else?"]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which gadgets do you have?",
+        "What kinds of gadgets are there?",
+        "What do you sell?",
+        "Do you have the latest smartphones?",
+        "Are there any new tech releases?"
+      ],
+      "responses": [
+        "We sell a variety of gadgets including smartphones, laptops, and smartwatches.",
+        "We offer the latest in tech, including cutting-edge smartphones and innovative smart home devices."
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?",
+        "Is cash on delivery available?",
+        "Do you accept Apple Pay?",
+        "Is there an option for contactless payment?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard, and Paypal",
+        "We accept most major credit cards, and Paypal"
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?"
+      ],
+      "responses": [
+        "Delivery usually takes 2-3 working days.",
+        "We aim to deliver your gadgets within 2-3 working days, depending on your location."
+      ]
+    },
+    {
+      "tag": "orders placing",
+      "patterns": [
+        "How to place an order?",
+        "How to do an order",
+        "Where do I see my orders?"
+      ],
+      "responses": [
+        "Place an order by selecting a gadget and proceeding to checkout.",
+        "Your orders are visible in your account section, accessible from the top right of our website."
+      ]
+    },
+    {
+      "tag": "orders tracking",
+      "patterns": [
+        "Where do I see my orders?"
+      ],
+      "responses": [
+        "Your orders are visible in your account section, accessible from the top right of our website."
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?",
+        "I need a laugh",
+        "Something amusing please"
+      ],
+      "responses": [
+        "Why did the smartphone go to school? To improve its 'cell'f-esteem!",
+        "Why was the computer cold? It left its Windows open.",
+        "What's a computer’s favorite snack? Microchips!"
+      ]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "What is your name?",
+        "Who are you?",
+        "Who created you?",
+        "What can you do?"
+      ],
+      "responses": [
+        "My name is ChatMate.",
+        "I am an AI-powered chatbot :-)",
+        "I was developed by NextGenStore to assist you with your gadget queries."
+      ]
+    },
+    {
+      "tag": "feedback",
+      "patterns": [
+        "I want to give feedback",
+        "How can I rate your service?"
+      ],
+      "responses": [
+        "We'd love to hear your thoughts! You can email your feedback to contact@mayankkashyap.com."
+      ]
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "I need assistance",
+        "Help me with my order"
+      ],
+      "responses": [
+        "Sure, I'm here to help. What do you need assistance with?"
+      ]
+    }
+  ]
+}

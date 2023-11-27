@@ -1,0 +1,5 @@
+# The User-agent: * means this section applies to all web robots
+User-agent: *
+
+# The Disallow: (with an empty value) means that all robots are welcome to access all areas of the site
+Disallow:
