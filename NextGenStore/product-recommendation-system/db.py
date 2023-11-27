@@ -7,7 +7,7 @@ from datetime import datetime, date
 # Custom JSON encoder for handling MongoDB specific data types
 class MongoJSONEncoder(JSONEncoder):
     def default(self, o):
-        # Handling datetime and date objects, converting them to ISO format
+        #1 Handling datetime and date objects, converting them to ISO format
         if isinstance(o, (datetime, date)):
             return iso.datetime_isoformat(o)
         
