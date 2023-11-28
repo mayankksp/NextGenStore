@@ -1,0 +1,32 @@
+version: 0.2
+
+phases:
+  pre_build:
+    commands:
+      - echo Entering the ai-chatbot subdirectory
+      - cd ai-chatbot
+      - echo Installing necessary packages
+      - pip install --upgrade pip
+      - pip install gunicorn torch flask flask-cors nltk
+
+  build:
+    commands:
+      - echo Build started on `date`
+      - echo Running Flask app with Gunicorn
+      - gunicorn --bind 0.0.0.0:8000 app:app &
+      # The '&' at the end runs Gunicorn in the background
+      # Replace 'app:app' with 'your_module:your_app' if your Flask app is named differently
+      # The build phase typically includes compiling, testing, etc.
+      # In this case, it seems you're directly running the app
+
+  post_build:
+    commands:
+      - echo Build completed on `date`
+      # Include any post-build commands like cleanup or notifications
+
+artifacts:
+  files:
+    - '**/*'
+  # Specify the files and folders to include in the build output
+
+# Include any additional configuration needed for your environment
