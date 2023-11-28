@@ -4,7 +4,7 @@ phases:
   pre_build:
     commands:
       - echo Entering the ai-chatbot subdirectory
-      - cd ai-chatbot/
+      - cd NextGenStore/ai-chatbot/
       - echo Installing necessary packages
       - pip install --upgrade pip
       - pip install gunicorn torch flask flask-cors nltk
